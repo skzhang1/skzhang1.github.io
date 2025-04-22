@@ -58,10 +58,13 @@ ul li {
     margin-bottom: 0.3em;
 }
 
-h2 {
-  font-size: 1.4em;
-  color: purple;
-}
+.posttitle h2 {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-family: Palatino Linotype, Palatino, Georgia, serif;
+  }
 
 h3{
   font-size: 1.6em;
